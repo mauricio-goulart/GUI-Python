@@ -17,6 +17,6 @@ text3 = Label(janela, text='Número:')
 text3.grid(column=1,row=2)
 #Entrada de Dados
 entrada = Entry(janela,width=10)
-entrada.grid(column=1, row=2)
+entrada.grid(column=1, row=2
 
 janela.mainloop()
